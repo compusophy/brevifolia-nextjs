@@ -1,4 +1,10 @@
 ---
 label: phi_test
 hide_body: false
-fields: []
+fields:
+- name: phi_test
+  type: text
+  config:
+    required: false
+  label: phi_test
+  description: this is not a test
