@@ -8,3 +8,5 @@ fields:
     required: false
   label: phi_test
   description: this is not a test
+pages:
+- filetest.md
